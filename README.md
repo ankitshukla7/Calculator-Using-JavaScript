@@ -4,5 +4,5 @@ HTML and CSS are used for the designing the body and background of the calculato
 JavaScript is responsible for the mathematical calculations going on behind the calculator.
 
 This folder contains two files :
-  1. HTML + JavaScript file
+  1. HTML + JavaScript file ( JavaScript is included in the HTML file)
   2. CSS file
